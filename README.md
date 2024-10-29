@@ -1,6 +1,5 @@
 # NFC Based Pass Validation
  
-Here’s a polished and professional README for your **NFC Based Pass Validation** project to engage visitors:
 
 ---
 
